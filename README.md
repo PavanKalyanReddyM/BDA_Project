@@ -6,7 +6,7 @@
         	<li>Amarnath Reddy Chinthapalli</li>
 		<li>Poornima Pulakandam</li>
 		<li>Pavan Kalyan Reddy Madatala</li>
-  	<h4>b)</h4>  Communication plan to include project artifact repository
+  	<h4>b)  Communication plan to include project artifact repository</h4>
 A communication plan was created to outline how project artifacts were stored and shared among team members. In this case, We have used Google Spaces as the primary platform for discussions, while Google Meet was used for virtual meetings. Additionally, a Git repository will be utilized to share project files and other relevant information. The frequency of group meetings will be based on the project deliverables.
 
 <h4>GitHub Repository Link</h4>: https://github.com/PavanKalyanReddyM/BDA_Project.git
