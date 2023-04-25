@@ -39,3 +39,18 @@ AWS Quick Sight for Creation of Dashboard Visualizations.
 <li>Are there certain countries that tend to have more successful campaigns?</li>
 <li>Can we predict the success rate of a project (i.e., the percentage of its funding goal that is met) based on its category, subcategory, country, launch date, and the number of backers?</li>
 <li>Is there a relationship between the success rate of a project and the length of its crowdfunding campaign (i.e., the difference between its launch date and its deadline)?</li>
+
+
+<h1> Deliverable 2</h1>
+
+<h4>a) Exploratory Data Analysis </h4>
+https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Delivarable2_BDA.ipynb
+
+<h4>b) Dashboard </h4>
+https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Dashboard_KickstarterProjects.pdf
+
+<h4> Data Preperation </h4>
+<p>The data on each column was carefully observed and the Standard deviation, Mean, Maximum, and other statistical distributions are examined to determine how evenly the data is distributed. The string values present in columns are then transformed into integers as the machine learning algorithm cannot take string values as input for processing.</p>
+
+
+
