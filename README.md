@@ -44,13 +44,23 @@ AWS Quick Sight for Creation of Dashboard Visualizations.
 <h1> Deliverable 2</h1>
 
 <h4>a) Exploratory Data Analysis </h4>
+Exploratory data analysis was performed using AWS SageMaker. 
+The hyperlink to the corresponding file is provided below.
 https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Delivarable2_BDA.ipynb
 
-<h4>b) Dashboard </h4>
+<h4> b) Dashboard </h4>
+<p>Dashboard instances displaying visualizations like pie charts, bar charts, word clouds, line graphs, outliers, and correlation graphs were made using AWS QuickSight. Research objectives are evaluated using these visualizations. Additionally, other plots were also produced using an AWS Amazon SageMaker notebook.</p>
+
+The PDF document contains several graphs generated using AWS QuickSight. 
+Please find the link to access the PDF document below.
+
 https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Dashboard_KickstarterProjects.pdf
 
-<h4> Data Preperation </h4>
-<p>The data on each column was carefully observed and the Standard deviation, Mean, Maximum, and other statistical distributions are examined to determine how evenly the data is distributed. The string values present in columns are then transformed into integers as the machine learning algorithm cannot take string values as input for processing.</p>
+c) Data Preparation
+We have checked for any missing values in the dataset and removed them and to perform our analysis, we created a new attribute called 'Duration_in_days' by utilizing the 'Launched' and 'Deadline' attributes. 
+
+
+
 
 
 
