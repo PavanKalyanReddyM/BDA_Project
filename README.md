@@ -58,7 +58,7 @@ Please find the link to access the PDF document below.
 https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Dashboard_KickstarterProjects.pdf
 
 <h4> c) Data Preparation <h4>
-We have checked for any missing values in the dataset and removed them and to perform our analysis, we created a new attribute called 'Duration_in_days' by utilizing the 'Launched' and 'Deadline' attributes. 
+<p>We have checked for any missing values in the dataset and removed them and to perform our analysis, we created a new attribute called 'Duration_in_days' by utilizing the 'Launched' and 'Deadline' attributes.</p>
 
 
 
