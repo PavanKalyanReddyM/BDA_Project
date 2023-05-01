@@ -42,7 +42,7 @@ AWS Quick Sight for Creation of Dashboard Visualizations.
 
 
 <h1> Deliverable 2</h1>
-<h2> Data Understanding </h2>
+<h4> Data Understanding </h4>
 <h4>a) Exploratory Data Analysis </h4>
 Exploratory data analysis was performed using AWS SageMaker. 
 The hyperlink to the corresponding file is provided below.
@@ -57,7 +57,7 @@ Please find the link to access the PDF document below.
 
 https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Dashboard_KickstarterProjects.pdf
 
-<h2> Data Preparation </h2>
+<h4> Data Preparation </h4>
 <p>We have checked for any missing values in the dataset and removed them and to perform our analysis, we created a new attribute called 'Duration_in_days' by utilizing the 'Launched' and 'Deadline' attributes.</p>
 
 
