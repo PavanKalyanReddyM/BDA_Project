@@ -44,7 +44,7 @@ AWS Quick Sight for Creation of Dashboard Visualizations.
 <h1> Deliverable 2</h1>
 <h4> Data Understanding </h4>
 <h4>a) Exploratory Data Analysis </h4>
-Exploratory data analysis was performed using AWS SageMaker. 
+Exploratory data analysis was performed using AWS SageMaker. EDA helps to uncover insights and patterns within the data, validate assumptions, and determine the best approach to analyze the data.
 The hyperlink to the corresponding file is provided below.
 
 https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Delivarable2_BDA.ipynb
