@@ -58,7 +58,7 @@ Please find the link to access the PDF document below.
 https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Dashboard_KickstarterProjects.pdf
 
 <h4> Data Preparation </h4>
-<p>We have checked for any missing values in the dataset and removed them and to perform our analysis, we created a new attribute called 'Duration_in_days' by utilizing the 'Launched' and 'Deadline' attributes.</p>
+<p>The dataset was checked for any missing values and those were removed to ensure accurate analysis. To enhance the analysis, a new attribute called 'Duration_in_days' was created using the 'Launched' and 'Deadline' attributes. Additionally, null values were checked and examined for each column, as they can hinder the machine learning algorithm's ability to learn. Afterwards, each column's data was observed thoroughly, and statistical measures such as standard deviation, mean, maximum, and other distributions were analyzed to determine the evenness of the data distribution.</p>
 
 
 
