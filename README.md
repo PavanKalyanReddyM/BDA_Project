@@ -37,9 +37,8 @@ AWS Quick Sight for Creation of Dashboard Visualizations.
 <li>How many projects were launched for each category with respective year?</li>
 <li>What is the average funding goal and pledged amount for different categories and subcategories on Kickstarter?</li>
 <li>Can we predict the success rate of a project (i.e., the percentage of its funding goal that is met) based on its category, subcategory, country, launch date, and the number of backers?</li>
-<li>How important are Categories in predicting the success of Kickstarter campaigns?</li>
-<li>How important are Sub Categories in predicting the success of Kickstarter campaigns?</li>
-
+<li>How important are Categories in predicting the success of Kickstarter Projects?</li>
+<li>How important are Sub Categories in predicting the success of Kickstarter Projects?</li>
 
 <h1> Deliverable 2</h1>
 <h4> Data Understanding </h4>
