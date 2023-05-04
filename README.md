@@ -36,9 +36,9 @@ AWS Quick Sight for Creation of Dashboard Visualizations.
 <li>Are there any outliers in the dataset, in terms of extremely high or low amounts pledged, number of backers, or project goals?</li>
 <li>How many projects were launched for each category with respective year?</li>
 <li>What is the average funding goal and pledged amount for different categories and subcategories on Kickstarter?</li>
-<li>Are there certain countries that tend to have more successful campaigns?</li>
 <li>Can we predict the success rate of a project (i.e., the percentage of its funding goal that is met) based on its category, subcategory, country, launch date, and the number of backers?</li>
-<li>Is there a relationship between the success rate of a project and the length of its crowdfunding campaign (i.e., the difference between its launch date and its deadline)?</li>
+<li>How important are Categories in predicting the success of Kickstarter campaigns?</li>
+<li>How important are Sub Categories in predicting the success of Kickstarter campaigns?</li>
 
 
 <h1> Deliverable 2</h1>
