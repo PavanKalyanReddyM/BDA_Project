@@ -66,6 +66,18 @@ Additionally, Amazon machine learning technologies like SageMaker, Athena, and G
 ![WhatsApp Image 2023-05-04 at 10 15 20 PM](https://user-images.githubusercontent.com/123277087/236364973-05fc7130-d9f8-46d3-b4c1-efd3cf5a9d87.jpeg)
 ![WhatsApp Image 2023-05-04 at 10 16 50 PM](https://user-images.githubusercontent.com/123277087/236365102-9753b698-605b-43c5-982a-b0be02a4dca4.jpeg)
 ![WhatsApp Image 2023-05-04 at 10 17 10 PM](https://user-images.githubusercontent.com/123277087/236365128-3dfa10a6-dd84-4c45-8da6-363f6a380965.jpeg)
+<h4>Evaluation and Optimization:</h4>
+AWS offers a variety of machine learning models and analytic tools, and we have used logistic regression and random forest models. 
+The likelihood that a dependent variable that is binary will take a specific value is predicted by a logistic regression model of the relationship between a binary dependent parameter and any number of independent variables. 
+Regression as well as classification are handled by an ensemble learning method known as random forest.It functions by building multiple decision trees on various subsets of the data that are randomly chosen, followed by combining the predictions from each tree to create a final prediction.
+<h4>Results<h4>
+The accuracy of a machine learning model on the dataset can be a useful metric for evaluating the performance of the model. For our Kickstarter dataset, accuracy can tell you how well the model is able to predict the outcome of a crowdfunding campaign (i.e., whether it will be "successful," "failed," "canceled," or "suspended") based on the input features.
+
+The notebook containing the code for building the models, evaluating their accuracy, and computing other relevant metrics can be accessed via the link provided below.
+<h5>Link</h5>
+https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Deliverable_3.ipynb
+
+	
 
 
 
