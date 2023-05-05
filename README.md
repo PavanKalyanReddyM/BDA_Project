@@ -70,12 +70,16 @@ Additionally, Amazon machine learning technologies like SageMaker, Athena, and G
 AWS offers a variety of machine learning models and analytic tools, and we have used logistic regression and random forest models. 
 The likelihood that a dependent variable that is binary will take a specific value is predicted by a logistic regression model of the relationship between a binary dependent parameter and any number of independent variables. 
 Regression as well as classification are handled by an ensemble learning method known as random forest.It functions by building multiple decision trees on various subsets of the data that are randomly chosen, followed by combining the predictions from each tree to create a final prediction.
-<h4>Results<h4>
+<h4>Results</h4>
 The accuracy of a machine learning model on the dataset can be a useful metric for evaluating the performance of the model. For our Kickstarter dataset, accuracy can tell you how well the model is able to predict the outcome of a crowdfunding campaign (i.e., whether it will be "successful," "failed," "canceled," or "suspended") based on the input features.
 
 The notebook containing the code for building the models, evaluating their accuracy, and computing other relevant metrics can be accessed via the link provided below.
 <h5>Link</h5>
 https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Deliverable_3.ipynb
+<h5>1. How important are categories in predicting the success of Kickstarter campaigns?</h5>
+<b>Feature Importance:</b>
+![WhatsApp Image 2023-05-04 at 10 19 01 PM](https://user-images.githubusercontent.com/123277087/236365499-fbd8d4b6-9ebb-43d9-bade-a429e03fda0f.jpeg)
+
 
 	
 
