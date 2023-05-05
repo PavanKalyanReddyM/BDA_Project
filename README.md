@@ -79,6 +79,34 @@ https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Deliverable_3.ipynb
 <h5>1. How important are categories in predicting the success of Kickstarter campaigns?</h5>
 <b>Feature Importance:</b>
 <img width="509" alt="image" src="https://user-images.githubusercontent.com/123277087/236366016-39727d39-4f3d-42c8-be92-cb442e7154c9.png">
+<h5>2. How important are subcategories in predicting the success of Kickstarter campaigns? </h5>
+<b>Feature Importance:</b>
+<img width="629" alt="image" src="https://user-images.githubusercontent.com/123277087/236366147-72695e14-197c-4637-b9ad-779a510b2917.png">
+<b>Model Accuracy Scores:</b?
+<img width="449" alt="image" src="https://user-images.githubusercontent.com/123277087/236366267-de6b5c36-6684-4a72-a683-adedba8fb600.png">
+Based on the accuracy results, the Random Forest and Logistic regression models performed the best with an accuracy of 96% and 89%, respectively. SVM had an accuracy of 88%. 
+
+Considering the accuracy and other metrics, it can be suggested that the Random Forest model is the best option for predicting project success based on the available features.
+
+The feature importance analysis revealed that the "Category" and “Subcategory” features has the highest importance in predicting the success or failure of Kickstarter projects.
+
+Analyzing feature importance for category and subcategory wise can provide valuable insights into the factors that influence the success or failure of crowdfunding campaigns and can help guide decision-making and improve predictions in the future.
+
+Based on these results, it may be beneficial to invest in Kickstarter projects in certain categories that have a higher success rate.
+
+<h4>Future Work, Comments:</h4>
+<ol>The dataset is unique because it provides a large and diverse sample of Kickstarter campaigns across different categories, subcategories, and years. This makes it a valuable resource for studying the factors that contribute to the success or failure of crowdfunding campaigns. 
+Dealing with imbalance is an important issue when analyzing Kickstarter project data, as there is a significant class imbalance between successful and failed projects.
+Data cleaning for Kickstarter projects typically involves removing duplicates, dropping irrelevant columns, and dealing with missing values.
+Outlier treatment was also necessary for certain variables, such as the funding goal or number of backers. 
+Imputation was used to fill in missing values in certain cases, such as when some variables were missing for only a small proportion of the observations.</ol>
+<ol>In the initial stage of the project, we utilized AWS Athena and AWS Glue to locate the data and created dashboards in AWS Quicksight. In the Analytics and Machine Learning modeling phase, we employed regression models, such as linear regression, to present the data results. AWS SageMaker was used to generate the outcomes. Adding new attributes such as year and duration range was helpful in extracting additional information from the data and improving the predictive power of the model.</ol>
+<ol>The analysis of the Kickstarter project dataset involved the use of various AWS resources, such as AWS Glue, AWS Athena, and AWS Quicksight. These tools were utilized for data identification and for a better understanding of the data after pre-processing. The processed data was then transferred to AWS SageMaker for the application of Machine learning models to obtain the final results.</ol>
+<ol>During the initial stages of the project's creation, a few challenges were faced while working with the Kickstarter dataset. The pre-processing involved data cleaning and feature engineering to enhance the predictive power of the model. The dataset was sourced from Kaggle, and it was challenging to set it up on the AWS platform due to compatibility issues, especially generating schema in Glue after running the crawler in Athena. In conclusion, while the project presented several challenges, we overcame them by working collaboratively and leveraging the available resources to deliver a high-quality analysis of the Kickstarter dataset.</ol>
+<ol>For future work, there are several other features, like project description, creator's background, social trends, etc., that can be included to improve the model's accuracy. Analyzing the success rate of campaigns across different states or cities can provide useful insights for creators looking to launch campaigns in specific locations. Additionally, if the dataset is expanded to include other countries, regional analysis could be conducted.</ol>
+<ol>If individuals want to use our work for the Kickstarter project dataset, which is available from Kaggle, they should set up an AWS account with appropriate credentials. The next step is to load the dataset into AWS and set up AWS Glue and AWS Athena to preprocess the data. Once the data is preprocessed, they can use AWS SageMaker to run the Jupyter notebook consisting of the code. The code consists of data cleaning, feature engineering, and model building. They can modify the code according to their requirements and run the notebook to obtain the results. All the necessary requirements for the procedure are mentioned in the Github repository, and individuals can refer to it for any further assistance.</ol>
+
+
 
 
 
