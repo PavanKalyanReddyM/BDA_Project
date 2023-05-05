@@ -78,6 +78,8 @@ The notebook containing the code for building the models, evaluating their accur
 https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Deliverable_3.ipynb
 <h5>1. How important are categories in predicting the success of Kickstarter campaigns?</h5>
 <b>Feature Importance:</b>
+![unknown](https://user-images.githubusercontent.com/128418777/236365863-476b9f5c-7e09-460d-8605-4a33000526f4.png)
+
 
 
 
