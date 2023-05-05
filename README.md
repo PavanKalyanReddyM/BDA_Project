@@ -63,6 +63,7 @@ https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Dashboard_Kickstarter
 We have used Amazon SageMaker, Athena, and Glue, which are great tools for recognizing and understanding the structure of the data. Athena allows us to query the data in S3 using SQL, while Glue automatically crawls and catalogs the data and generates ETL code to transform it into a format that is suitable for analysis. By using these tools, we have gathered a better understanding of our data and ensured that we are using the best ML tools for our specific dataset.
 
 Additionally, Amazon machine learning technologies like SageMaker, Athena, and Glue can help extract insights from the data and build accurate machine learning models that can drive better business decisions.
+![WhatsApp Image 2023-05-04 at 10 15 20 PM](https://user-images.githubusercontent.com/123277087/236364973-05fc7130-d9f8-46d3-b4c1-efd3cf5a9d87.jpeg)
 
 
 
