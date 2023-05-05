@@ -63,9 +63,9 @@ https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Dashboard_Kickstarter
 We have used Amazon SageMaker, Athena, and Glue, which are great tools for recognizing and understanding the structure of the data. Athena allows us to query the data in S3 using SQL, while Glue automatically crawls and catalogs the data and generates ETL code to transform it into a format that is suitable for analysis. By using these tools, we have gathered a better understanding of our data and ensured that we are using the best ML tools for our specific dataset.
 
 Additionally, Amazon machine learning technologies like SageMaker, Athena, and Glue can help extract insights from the data and build accurate machine learning models that can drive better business decisions.
-![WhatsApp Image 2023-05-04 at 10 15 20 PM](https://user-images.githubusercontent.com/123277087/236364973-05fc7130-d9f8-46d3-b4c1-efd3cf5a9d87.jpeg)
-![WhatsApp Image 2023-05-04 at 10 16 50 PM](https://user-images.githubusercontent.com/123277087/236365102-9753b698-605b-43c5-982a-b0be02a4dca4.jpeg)
-![WhatsApp Image 2023-05-04 at 10 17 10 PM](https://user-images.githubusercontent.com/123277087/236365128-3dfa10a6-dd84-4c45-8da6-363f6a380965.jpeg)
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/123277087/236364973-05fc7130-d9f8-46d3-b4c1-efd3cf5a9d87.jpeg>
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/123277087/236365102-9753b698-605b-43c5-982a-b0be02a4dca4.jpeg>
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/123277087/236365128-3dfa10a6-dd84-4c45-8da6-363f6a380965.jpeg>
 <h4>Evaluation and Optimization:</h4>
 AWS offers a variety of machine learning models and analytic tools, and we have used logistic regression and random forest models. 
 The likelihood that a dependent variable that is binary will take a specific value is predicted by a logistic regression model of the relationship between a binary dependent parameter and any number of independent variables. 
@@ -77,10 +77,10 @@ The notebook containing the code for building the models, evaluating their accur
 <h5>Link</h5>
 https://github.com/PavanKalyanReddyM/BDA_Project/blob/main/Deliverable_3.ipynb
 <h5>1. How important are categories in predicting the success of Kickstarter campaigns?</h5>
-<b>Feature Importance:</b>
+Feature Importance:
 <img width="509" alt="image" src="https://user-images.githubusercontent.com/123277087/236366016-39727d39-4f3d-42c8-be92-cb442e7154c9.png">
 <h5>2. How important are subcategories in predicting the success of Kickstarter campaigns? </h5>
-<b>Feature Importance:</b>
+Feature Importance:
 <img width="629" alt="image" src="https://user-images.githubusercontent.com/123277087/236366147-72695e14-197c-4637-b9ad-779a510b2917.png">
 <b>Model Accuracy Scores:</b>
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/123277087/236366267-de6b5c36-6684-4a72-a683-adedba8fb600.png">
